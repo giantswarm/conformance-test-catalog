@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  prow-log-aggregator:
+  - apiVersion: v1
+    appVersion: 1.0.0-dev
+    created: "2020-08-18T08:05:33.870850438Z"
+    description: Extract logs from Tekton pipelines into Prow dashboards.
+    digest: 8790733eab687d5e292801b70ccac0f8685f3627839ddfdc2bf49bad1d7b6a11
+    home: https://github.com/giantswarm/prow-log-aggregator
+    name: prow-log-aggregator
+    urls:
+    - https://giantswarm.github.com/conformance-test-catalog/prow-log-aggregator-0.0.0-b579f8bdaa5fe0607444121628938d5ddaa11c33.tgz
+    version: 0.0.0-b579f8bdaa5fe0607444121628938d5ddaa11c33
+generated: "2020-08-18T08:05:33.870360343Z"
